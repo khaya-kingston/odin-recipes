@@ -1,0 +1,1 @@
+This is a practice recipe webpage which links to multiple other pages which have distinct recipes with images on them.
